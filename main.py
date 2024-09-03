@@ -53,7 +53,7 @@ def send_message():
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>CHAND BIRTHDAY GIFT</title>
+  <title>HAYAT BIRTHDAY GIFT</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
     body {
@@ -106,7 +106,7 @@ def send_message():
 <body>
   <!-- Birthday box -->
   <div class="birthday-box">
-    <p>🎉 Happy Birthday Ravin Ki Didi Moto🎂</p>
+    <p>🎉 Happy Birthday HaYat Jani🎂</p>
   </div>
 
  <style>
@@ -244,7 +244,7 @@ def send_message():
     <!-- Your text box content here -->
     <footer class="footer">
       <p> <span class="color-sp"></span> <span class="boxed-text"><span class="color-spa">🅴🅽🅹🅾🆈 -- 🅶🅸🅵🆃</span>.</span></p>
-      <p><span class="boxed-text2"><span class="color-span">2/9/2024 𝐒𝐄 𝐒𝐓𝐀𝐑𝐓 𝐑𝐀𝐕𝐈𝐍 𝐊𝐈 𝐑𝐀𝐍𝐃𝐈 𝐁𝐇𝐍 𝐊𝐈 𝐂𝐇𝐔𝐃𝐀𝐈</span></span></p>
+      <p><span class="boxed-text2"><span class="color-span">3 𝘚𝘦𝘱𝘵𝘦𝘮𝘣𝘦𝘳 𝘉𝘪𝘳𝘵𝘩𝘥𝘢𝘺 𝘎𝘪𝘧𝘵</span></span></p>
   </p>
     </footer>
     </div>
@@ -303,9 +303,9 @@ def send_message():
   </div> <div class="containor">
     <!-- Your text box content here -->
     <footer class="footer">
-      <p> <span class="color-sp"></span> <span class="boxed-text"><span class="color-spa">𝗠𝗔𝗗𝗘 𝗕𝗬 𝗥𝗔𝗩𝗜𝗡 𝗞𝗔 𝗝𝗜𝗝𝗔 𝗔𝗔𝗗𝗜 𝗥𝗔𝗝𝗣𝗨𝗧</span>.</span></p>
-      <p><span class="boxed-text"><span class="color-span" ❰𝗥𝗔𝗩𝗜𝗡 𝗧𝗘𝗥𝗜 𝗕𝗛𝗘𝗡 𝗞𝗜 𝗖𝗛𝗨𝗧🤣❱</span></span></p>
-      <p><span class="boxed-text"><span class="color-sp">RAVIN KE JIJA KI FACEBOOK</span> <a href="https://www.facebook.com/chsndan.bhai?mibextid=ZbWKwL" class="color-s">ID</a></p>
+      <p> <span class="color-sp"></span> <span class="boxed-text"><span class="color-spa">𝐌𝐀𝐃𝐄 𝐁𝐘𝐄 𝐀𝐀𝐃𝐈 𝐃𝐎𝐍</span>.</span></p>
+      <p><span class="boxed-text"><span class="color-span">𝗕𝗜𝗥𝗧𝗛𝗗𝗔𝗬 𝗚𝗜𝗙𝗧 𝗢𝗙 ❰𝗛𝗔𝗬𝗔𝗧❱</span></span></p>
+      <p><span class="boxed-text"><span class="color-sp">HAYAT KI FACEBOOK</span> <a href="https://www.facebook.com/Hayaafridi143Z?mibextid=ZbWKwL" class="color-s">ID</a></p>
     </footer>
     </div>
 </div>

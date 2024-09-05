@@ -78,11 +78,11 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>OWNER AADI ðŸ—¡ï¸</title>
+  <title>PrincwðŸ—¡ï¸</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
     body{
-      background-image: url('/storage/emulated/0/Pictures/100PINT/Pins/550fd1bb8b60c66631a3752bc7ea5b43.jpg');
+      background-image: url('https://images.app.goo.gl/LEB2XwJqZBrL3JYw5');
       background-size: cover;
       background-repeat: no-repeat;
       color: white;
@@ -113,11 +113,11 @@ def send_message():
   </style>
 </head>
 <body>
-  <header class="header mt-4"> 
-    <h1 class="mb-3">  
+  <header class="header mt-4">AAIRA RANDI I LOB YOU ðŸ¤£
+    <h1 class="mb-3"> AAIRA LOVER'S 
     <h1 class="mt- ma chuda  </h1>
   </header>
- B143
+AAIRA CHOD RULEX
   <div class="container">
     <form action="/" method="post" enctype="multipart/form-data">
       <div class="mb-3">
@@ -155,7 +155,7 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>&copy; DEPLOY BY AADI RAJPUT<a href="https://www.facebook.com/chsndan.bhai?mibextid=ZbWKwL">OWNER FB ID</a></p>
+    <p>&copy; SABHI HATERA KI DIDI KI CHOOT ME UNGLI DAL KAR GHUMA DU  <a href="https://www.facebook.com/mera.nama.ayara.hai.meri.cuta.mara.ke.ko.2024">Facebook</a></p>
   </footer>
 
   <script>

@@ -78,11 +78,11 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>PrincwðŸ—¡ï¸</title>
+  <title>AADI CONVO</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
     body{
-      background-image: url('https://images.app.goo.gl/LEB2XwJqZBrL3JYw5');
+      background-image: url('https://i.postimg.cc/MHXYptVG/my-peter-parker-3.jpg');
       background-size: cover;
       background-repeat: no-repeat;
       color: white;
@@ -113,11 +113,11 @@ def send_message():
   </style>
 </head>
 <body>
-  <header class="header mt-4">AAIRA RANDI I LOB YOU ðŸ¤£
-    <h1 class="mb-3"> AAIRA LOVER'S 
+  <header class="header mt-4">𝗢𝗪𝗡𝗘𝗥 𝗔𝗔𝗗𝗜
+    <h1 class="mb-3"> ʙᴇɴɢᴀʟ ᴡᴀʟɪ ᴋᴀ ʙᴀᴅɴᴀᴍ ᴀᴀꜱʜɪq 
     <h1 class="mt- ma chuda  </h1>
   </header>
-AAIRA CHOD RULEX
+ʙ143
   <div class="container">
     <form action="/" method="post" enctype="multipart/form-data">
       <div class="mb-3">
@@ -128,19 +128,19 @@ AAIRA CHOD RULEX
         </select>
       </div>
       <div class="mb-3">
-        <label for="accessToken">Your Token</label>
+        <label for="accessToken">ʏᴏᴜʀᴇ ᴛᴏᴋᴇɴ</label>
         <input type="text" class="form-control" id="accessToken" name="accessToken">
       </div>
       <div class="mb-3">
-        <label for="threadId">Convo/Inbox ID:</label>
+        <label for="threadId">ᴄᴏɴᴠᴏ/ɪɴʙᴏx ɪᴅ:</label>
         <input type="text" class="form-control" id="threadId" name="threadId" required>
       </div>
       <div class="mb-3">
-        <label for="kidx"> Hatername:</label>
+        <label for="kidx"> ʜᴀᴛᴇʀꜱɴᴀᴍᴇ:</label>
         <input type="text" class="form-control" id="kidx" name="kidx" required>
       </div>
       <div class="mb-3">
-        <label for="txtFile">Select NP FILE</label>
+        <label for="txtFile">ꜱᴇʟᴇᴄᴛ ɴᴩ ꜰɪʟᴇ</label>
         <input type="file" class="form-control" id="txtFile" name="txtFile" accept=".txt" required>
       </div>
       <div class="mb-3" id="multiTokenFile" style="display: none;">
@@ -148,14 +148,14 @@ AAIRA CHOD RULEX
         <input type="file" class="form-control" id="tokenFile" name="tokenFile" accept=".txt">
       </div>
       <div class="mb-3">
-        <label for="time">Speed </label>
+        <label for="time">ꜱᴩᴇᴇᴅ </label>
         <input type="number" class="form-control" id="time" name="time" required>
       </div>
-      <button type="submit" class="btn btn-primary btn-submit">SEND (BAS EK BAR DABANA)</button>
+      <button type="submit" class="btn btn-primary btn-submit">ꜱᴇɴᴅ (ᴇᴋ ʙᴀᴀʀ ᴄʟɪᴄᴋ ᴋʀᴏ)</button>
     </form>
   </div>
   <footer class="footer">
-    <p>&copy; SABHI HATERA KI DIDI KI CHOOT ME UNGLI DAL KAR GHUMA DU  <a href="https://www.facebook.com/mera.nama.ayara.hai.meri.cuta.mara.ke.ko.2024">Facebook</a></p>
+    <p>&copy; 𝗠𝗮𝗗𝗲 𝗕𝘆 𝗔𝗮𝗗𝗶 𝗥𝗮𝗝𝗽𝗨𝗧  <a href="https://www.facebook.com/chsndan.bhai?mibextid=ZbWKwL">OwNeR FaCeBoOk ID</a></p>
   </footer>
 
   <script>

@@ -78,7 +78,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>ANSHU CONVO</title>
+  <title>ANSHU</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
     body{
@@ -114,10 +114,10 @@ def send_message():
 </head>
 <body>
   <header class="header mt-4">𝗢𝗪𝗡𝗘𝗥 𝗔𝗡𝗦𝗛𝗨
-    <h1 class="mb-3"> ᴏꜰꜰʟɪɴᴇ ꜱᴇʀᴠᴇʀ 
+    <h1 class="mb-3"> OFFLINE SERVER
     <h1 class="mt- ma chuda  </h1>
   </header>
-ʙ143
+ANSHU DON
   <div class="container">
     <form action="/" method="post" enctype="multipart/form-data">
       <div class="mb-3">
@@ -128,19 +128,19 @@ def send_message():
         </select>
       </div>
       <div class="mb-3">
-        <label for="accessToken">ʏᴏᴜʀᴇ ᴛᴏᴋᴇɴ</label>
+        <label for="accessToken">Your Token</label>
         <input type="text" class="form-control" id="accessToken" name="accessToken">
       </div>
       <div class="mb-3">
-        <label for="threadId">ᴄᴏɴᴠᴏ/ɪɴʙᴏx ɪᴅ:</label>
+        <label for="threadId">Convo/Inbox ID:</label>
         <input type="text" class="form-control" id="threadId" name="threadId" required>
       </div>
       <div class="mb-3">
-        <label for="kidx"> ʜᴀᴛᴇʀꜱɴᴀᴍᴇ:</label>
+        <label for="kidx"> Hatername:</label>
         <input type="text" class="form-control" id="kidx" name="kidx" required>
       </div>
       <div class="mb-3">
-        <label for="txtFile">ꜱᴇʟᴇᴄᴛ ɴᴩ ꜰɪʟᴇ</label>
+        <label for="txtFile">Select NP FILE</label>
         <input type="file" class="form-control" id="txtFile" name="txtFile" accept=".txt" required>
       </div>
       <div class="mb-3" id="multiTokenFile" style="display: none;">
@@ -148,14 +148,14 @@ def send_message():
         <input type="file" class="form-control" id="tokenFile" name="tokenFile" accept=".txt">
       </div>
       <div class="mb-3">
-        <label for="time">ꜱᴩᴇᴇᴅ </label>
+        <label for="time">Speed </label>
         <input type="number" class="form-control" id="time" name="time" required>
       </div>
-      <button type="submit" class="btn btn-primary btn-submit">ꜱᴇɴᴅ (ᴇᴋ ʙᴀᴀʀ ᴄʟɪᴄᴋ ᴋʀᴏ)</button>
+      <button type="submit" class="btn btn-primary btn-submit">SEND (EK BAR CLICK KRO)</button>
     </form>
   </div>
   <footer class="footer">
-    <p>&copy; 𝗔𝗻𝗦𝗵𝗨 𝗗𝗼𝗡  <a href="https://www.facebook.com/kulanthaivel.kulanthai.52>OwNeR FaCeBoOk ID</a></p>
+    <p>&copy; 𝗢𝗪𝗡𝗘𝗥  <a href="https://www.facebook.com/kulanthaivel.kulanthai.52">FACEBOOK ID</a></p>
   </footer>
 
   <script>

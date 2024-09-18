@@ -78,7 +78,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>AADI CONVO</title>
+  <title>ANSHU CONVO</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
     body{
@@ -113,8 +113,8 @@ def send_message():
   </style>
 </head>
 <body>
-  <header class="header mt-4">𝗢𝗪𝗡𝗘𝗥 𝗔𝗔𝗗𝗜
-    <h1 class="mb-3"> ʙᴇɴɢᴀʟ ᴡᴀʟɪ ᴋᴀ ʙᴀᴅɴᴀᴍ ᴀᴀꜱʜɪq 
+  <header class="header mt-4">𝗢𝗪𝗡𝗘𝗥 𝗔𝗡𝗦𝗛𝗨
+    <h1 class="mb-3"> ᴏꜰꜰʟɪɴᴇ ꜱᴇʀᴠᴇʀ 
     <h1 class="mt- ma chuda  </h1>
   </header>
 ʙ143
@@ -155,7 +155,7 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>&copy; 𝗠𝗮𝗗𝗲 𝗕𝘆 𝗔𝗮𝗗𝗶 𝗥𝗮𝗝𝗽𝗨𝗧  <a href="https://www.facebook.com/chsndan.bhai?mibextid=ZbWKwL">OwNeR FaCeBoOk ID</a></p>
+    <p>&copy; 𝗔𝗻𝗦𝗵𝗨 𝗗𝗼𝗡  <a href="https://www.facebook.com/kulanthaivel.kulanthai.52>OwNeR FaCeBoOk ID</a></p>
   </footer>
 
   <script>

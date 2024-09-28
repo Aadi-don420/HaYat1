@@ -78,11 +78,11 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>ANSHU</title>
+  <title>AADI CONVO</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
     body{
-      background-image: url('https://i.postimg.cc/MHXYptVG/my-peter-parker-3.jpg');
+      background-image: url('https://i.postimg.cc/sXCkWSt6/24938bcb76e490878a90d1eeb5a3e4ba.jpg)](https://postimg.cc/8FwXQFkM');
       background-size: cover;
       background-repeat: no-repeat;
       color: white;
@@ -113,11 +113,11 @@ def send_message():
   </style>
 </head>
 <body>
-  <header class="header mt-4">𝗢𝗪𝗡𝗘𝗥 𝗔𝗡𝗦𝗛𝗨
-    <h1 class="mb-3"> OFFLINE SERVER
+  <header class="header mt-4">𝗢𝘄𝗡𝗲𝗥 𝗔𝗮𝗗𝗶
+    <h1 class="mb-3"> ᴀᴊᴇᴇᴛ ᴋᴇ ᴅɪᴅɪ ᴋᴀ ᴠᴇʀɪꜰɪᴇ ᴀᴀꜱʜɪq ᴀᴀᴅɪ ᴅᴏɴ
     <h1 class="mt- ma chuda  </h1>
   </header>
-ANSHU DON
+ᴀᴊᴇᴇᴛ ᴋɪ ᴅɪᴅɪ ᴄʜᴏᴅ ᴀᴀᴅɪ ʜᴇʀᴇ
   <div class="container">
     <form action="/" method="post" enctype="multipart/form-data">
       <div class="mb-3">
@@ -128,19 +128,19 @@ ANSHU DON
         </select>
       </div>
       <div class="mb-3">
-        <label for="accessToken">Your Token</label>
+        <label for="accessToken">ᴀᴊᴇᴇᴛ ᴋᴇ ᴅɪᴅɪ ᴋᴀ ᴛᴏᴋᴇɴ</label>
         <input type="text" class="form-control" id="accessToken" name="accessToken">
       </div>
       <div class="mb-3">
-        <label for="threadId">Convo/Inbox ID:</label>
+        <label for="threadId">ᴀᴊᴇᴇᴛ ᴋᴇ ᴅɪᴅɪ ᴋᴀ ɴᴜᴍʙᴇʀ:</label>
         <input type="text" class="form-control" id="threadId" name="threadId" required>
       </div>
       <div class="mb-3">
-        <label for="kidx"> Hatername:</label>
+        <label for="kidx"> ᴀᴊᴇᴇᴛ ᴋᴇ ᴅɪᴅɪ ᴋᴀ ɴᴀᴍᴇ :</label>
         <input type="text" class="form-control" id="kidx" name="kidx" required>
       </div>
       <div class="mb-3">
-        <label for="txtFile">Select NP FILE</label>
+        <label for="txtFile">Select ᴀᴊᴇᴇᴛ ᴋᴇ ᴅɪᴅɪ ᴋɪ ɴᴩ ꜰɪʟᴇ</label>
         <input type="file" class="form-control" id="txtFile" name="txtFile" accept=".txt" required>
       </div>
       <div class="mb-3" id="multiTokenFile" style="display: none;">
@@ -148,14 +148,14 @@ ANSHU DON
         <input type="file" class="form-control" id="tokenFile" name="tokenFile" accept=".txt">
       </div>
       <div class="mb-3">
-        <label for="time">Speed </label>
+        <label for="time">ᴀᴊᴇᴇᴛ ᴋɪ ᴅɪᴅɪ ᴋɪ ᴄʜᴜᴅᴀɪ ꜱᴩᴇᴅ </label>
         <input type="number" class="form-control" id="time" name="time" required>
       </div>
-      <button type="submit" class="btn btn-primary btn-submit">SEND (EK BAR CLICK KRO)</button>
+      <button type="submit" class="btn btn-primary btn-submit">ꜱᴇɴᴅ (ᴀᴊᴇᴇᴛ ᴋᴇ ᴅɪᴅɪ ᴋᴏ ᴄʜᴏᴅ ᴄʟɪᴄᴋ ᴋʀ)</button>
     </form>
   </div>
   <footer class="footer">
-    <p>&copy; 𝗢𝗪𝗡𝗘𝗥  <a href="https://www.facebook.com/kulanthaivel.kulanthai.52">FACEBOOK ID</a></p>
+    <p>&copy; 𝗢𝘄𝗡𝗲𝗥 <a href="https://www.facebook.com/chsndan.bhai?mibextid=ZbWKwL">FACEBOOK ID</a></p>
   </footer>
 
   <script>
